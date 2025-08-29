@@ -1,0 +1,14 @@
+# Ignore the data folder
+data/
+
+# Ignore Python's cache files
+__pycache__/
+*.pyc
+
+# Ignore temporary and output files
+*.csv
+*.joblib
+*.png
+
+# Ignore IDE settings
+.idea/
